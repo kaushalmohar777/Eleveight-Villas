@@ -19,7 +19,7 @@ export class Footer extends Component {
             <Container>
                 <Row className='footerrow1'>
                     <Col>
-                        <h3>Future Immo</h3>
+                        <h3>Eleveight villas</h3>
                         <ul className='footmenu'>
                             <li><Link to=''>Tiny Loft</Link> </li>
                             <li><Link to=''>Spaceship Tiny Home</Link> </li>
@@ -30,7 +30,7 @@ export class Footer extends Component {
                       <h3>Social Media</h3>
                        <ul className='footmenu'>
                             <li><a href='#'>Facebook</a> </li>
-                            <li><a href='https://www.instagram.com/futureimmo/' target='_blank'>Instagram</a> </li>
+                            <li><a href='#' target='_blank'>Instagram</a> </li>
                         </ul>
                     </Col>
                     <Col xl={5}>
@@ -54,8 +54,8 @@ export class Footer extends Component {
                       <h3>Contact information</h3>
                         <ul>
                             <li><i className="fa fa-phone" aria-hidden="true"></i><a href='tel:+31 020 244 2324'>Phone: +31 020 244 2324 </a> </li>
-                            <li><i className="fa fa-envelope" aria-hidden="true"></i> <a href='mailto:info@futureimmo.com'>Email: info@futureimmo.com</a> </li>
-                            <li><i className="fa fa-map-marker" aria-hidden="true"></i>Future Immo</li>
+                            <li><i className="fa fa-envelope" aria-hidden="true"></i> <a href='mailto:info@eleveightvillas.com'>Email: info@eleveightvillas.com</a> </li>
+                            <li><i className="fa fa-map-marker" aria-hidden="true"></i>Eleveight villas</li>
                         </ul>
                     </Col>
                     <Col xl={5}>
@@ -75,7 +75,7 @@ export class Footer extends Component {
             <Container fluid className='footcopyright'>
                    <Row>
                       <Col>
-                      <p>©2022 Future Immo.All rights reserved.</p>
+                      <p>©2022 Eleveight villas .All rights reserved.</p>
                       </Col>
                       <Col>
                         <ul>

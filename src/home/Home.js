@@ -24,7 +24,7 @@ export class Home extends Component {
         <ImageAndText2/>
         <ImageAndText3/>
         <Testimonials/>
-        <ContactInfo/>
+        {/* <ContactInfo/> */}
         <InstaFeed/>
       </>
     )
