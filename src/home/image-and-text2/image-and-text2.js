@@ -21,11 +21,8 @@ export class ImageAndText2 extends Component {
           <Col xl={6} data-aos={"fade-right"}>
             <div className='textwrp'>
               <div>
-                <h3>TINY OFFICES</h3>
-                <p>Ready to work from home? Need a different environment? Then we have exactly what you need! Come and work in one of our Tiny Offices. The abundance of
-                   daylight, organic coffee, tea and delicacies ensure that you can work focused all day long. Get out of the bubble and go outside to meet your
-                   daily worries too
-                   escape and take a walk along the beach or the Kennemermeer. We guarantee you will return home refreshed and ready for that big project.</p>
+                <h3>RELAX AND UNWIND</h3>
+                <p>The living area has direct access to the pool and garden. Open the large glass doors and jump straight into the refreshing pool and sunbathe in the bean bags while enjoying the beautiful days in Bali during your stay with us!</p>
               </div>
             </div>
           </Col>

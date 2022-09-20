@@ -33,10 +33,9 @@ export class Testimonials extends Component {
                     alt="First slide"
                   />
 
-                  <h3>- Mike B.</h3>
+                  <h3>- Robert S.</h3>
                   <p>
-                    “Had some idea what we were interested with landscaping our space, but horticulture is not my forte.
-                    Team Arbutus was excellent in providing suggestions and worked within our budget.”
+                    “Nice spot and very helpful and kind staff.”
                   </p>
 
                   <span className="fa fa-star checked"></span>
@@ -53,10 +52,9 @@ export class Testimonials extends Component {
                   />
 
 
-                  <h3>- Mike B.</h3>
+                  <h3>- Maya J.</h3>
                   <p>
-                    “Had some idea what we were interested with landscaping our space, but horticulture is not my forte.
-                    Team Arbutus was excellent in providing suggestions and worked within our budget.”
+                  “The villa is perfectly located in close proximity to coffee shops and restaurants and managed by kind and attentive staff.”
                   </p>
 
                   <span className="fa fa-star checked"></span>
@@ -73,10 +71,9 @@ export class Testimonials extends Component {
                     alt="Third slide"
                   />
 
-                  <h3>- Mike B.</h3>
+                  <h3>- Adrian D.</h3>
                   <p>
-                    “Had some idea what we were interested with landscaping our space, but horticulture is not my forte.
-                    Team Arbutus was excellent in providing suggestions and worked within our budget.”
+                    “The villa was good value for money.”
                   </p>
 
                   <span className="fa fa-star checked"></span>

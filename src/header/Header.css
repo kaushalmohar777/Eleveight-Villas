@@ -94,6 +94,10 @@ li.headbtn a:hover {
         align-items: center;
         flex-wrap: nowrap;
     }
+    .navbar-brand img {
+        max-width: 75px;
+    }
+
 
 
 }

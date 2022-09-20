@@ -24,7 +24,7 @@ const Header = () => {
            <Col className="headtopright">
               <ul>
                 <li><SideBar obj={{show:show,setShow:setShow}}></SideBar></li>
-                <li><a href="tel:+55 54 9679 9773"><img src={phoneimg}/> +55 54 9679 9773</a></li>
+                <li><a href="tel:+62 877 2773 1372"><img src={phoneimg}/> +62 877 2773 1372</a></li>
                 <li className="headbtn"><a href="#footerMain">Contact Us</a></li>
               </ul>
            </Col>

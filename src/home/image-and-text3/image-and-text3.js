@@ -23,9 +23,9 @@ export class ImageAndText3 extends Component {
           <Col xl={6} data-aos={"fade-left"}>
             <div className='textwrp'>
               <div>
-                <h3>TINY BAR</h3>
-                <p>Come by for a cup of coffee or tea with something delicious! Still more in the mood for a refreshing drink or a small one
-                   snack? Choose from a selection of carefully selected local beers or organic wines and add a snack platter. At the Tiny Bar you can relax on one of the sundecks or around the campfire.</p>
+                <h3>WIND DOWN</h3>
+                <p>The concrete stairs lead you upstairs where you will find the stunning 2 bedrooms with a comfortable bed, en-suite bathroom, a small desk and a nice little balcony. We will make sure you have the ultimate relaxing stay in the bustling Berawa, Canggu!</p>
+                <p>We are looking forward to welcoming you in paradise and helping you to create perfect memories in this stunning villa in Berawa!</p>
               </div>
             </div>
           </Col>

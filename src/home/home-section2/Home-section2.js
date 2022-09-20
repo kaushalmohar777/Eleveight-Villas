@@ -22,16 +22,14 @@ export class Homesection2 extends Component {
           <Container >
             <Row>
               <Col data-aos={"fade-up"}>
-                <h3>HOLIDAY PARK "NEW STYLE"</h3>
+                <h3>ELEVEIGHT VILLAS</h3>
                 <p>
-                Come and stay by the sea at eleveight villas. Stay overnight in one
-                   of the 32 Tiny Houses, book a meeting room or touch
-                   inspired.</p>
+                Minimalistic industrial villas with private pool at the heart of Berawa. </p>
 
-                <p>Minimum stay of two nights.</p>
+                <p>This stylish 2 bedroom villa with a private pool is tucked away in a small alley, just minutes away from the best cafes, restaurants, bars, and the Berawa beach.</p>
 
                 <p>
-                 Knowing more? Read all about the eleveight villas concept here.
+                 Learn all about the Eleveight concept here.
                 </p>
               </Col>
             </Row>

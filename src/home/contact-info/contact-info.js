@@ -35,9 +35,9 @@ export class ContactInfo extends Component {
                                     <p>Get in touch using the form or whatsapp</p>
 
                                     <ul>
-                                        <li><img src={contimg3} /> <a href='tel:+31 020 244 2324'>Reception: +31 020 244 2324</a> </li>
-                                        <li><img src={contimg1} /> <a href='mailto:info@futureimmo.com'>info@futureimmo.com</a> </li>
-                                        <li><img src={contimg2} /> Future Immo</li>
+                                        <li><img src={contimg3} /> <a href='tel:+62 877 2773 1372'>Reception: +62 877 2773 1372</a> </li>
+                                        <li><img src={contimg1} /> <a href='mailto:info@eleveight.villas'>info@eleveight.villas</a> </li>
+                                        <li><img src={contimg2} /> Eleveight Villas, Jl Raya Semat, Berawa Beach, Bali</li>
 
                                     </ul>
                                 </div>

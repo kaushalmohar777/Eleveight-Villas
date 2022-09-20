@@ -5,11 +5,17 @@
 
 .sliderman .carousel-caption h3 {
     text-transform: uppercase;
-    font-size: 125px;
+    font-size: 6.510vw;
     font-family: 'Barlow', sans-serif;
     line-height: 1;
     font-weight: 600;
 }
+
+.sliderman .carousel-item img {
+    height: 42.292vw;
+    object-fit: cover;
+}
+
 
 @media(max-width: 1200px){
 

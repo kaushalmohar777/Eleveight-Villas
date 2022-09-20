@@ -40,7 +40,7 @@ const HomeProductStatic = () => {
               <Link to='' style={{ textDecoration: 'none' }}>
                <img src={productimage1} />
                 <div className="prod-bottom">
-                  <h3>TINY LOFT</h3>
+                  <h3>Turn On</h3>
                 </div>
               </Link>
             </Col>
@@ -48,7 +48,7 @@ const HomeProductStatic = () => {
             <Link to='' style={{ textDecoration: 'none' }}>
                <img src={productimage2} />
                 <div className="prod-bottom">
-                  <h3>Spaceship Tiny Home</h3>
+                  <h3>Tune In</h3>
                 </div>
               </Link>
             </Col>
@@ -56,7 +56,7 @@ const HomeProductStatic = () => {
             <Link to='' style={{ textDecoration: 'none' }}>
                <img src={productimage3} />
                 <div className="prod-bottom">
-                  <h3>Millhome duo 1</h3>
+                  <h3>Drop Out</h3>
                 </div>
               </Link>
             </Col>

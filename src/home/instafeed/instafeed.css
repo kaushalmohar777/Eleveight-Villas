@@ -5,3 +5,11 @@
     margin-top: 57px;
     margin-bottom: 27px;
 }
+
+
+@media(max-width: 767px){
+    .instafedddiv h3 {
+        font-size: 25px;
+    }
+}
+

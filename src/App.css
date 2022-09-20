@@ -25,6 +25,9 @@ a.cartmenu {
 }
 
 
+
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -60,5 +63,17 @@ a.cartmenu {
   div#root {
     overflow-x: hidden;
   }
+
+[data-aos^=fade][data-aos^=fade].aos-animate {
+    opacity: 1 !important;
+    transform: translateZ(0) !important;
+}
   
+[data-aos=fade-left] {
+  transform: none !important;
+}
+[data-aos=fade-right] {
+  transform: none !important;
+}
+
 }

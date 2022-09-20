@@ -21,16 +21,16 @@ export class Footer extends Component {
                     <Col>
                         <h3>Eleveight villas</h3>
                         <ul className='footmenu'>
-                            <li><Link to=''>Tiny Loft</Link> </li>
-                            <li><Link to=''>Spaceship Tiny Home</Link> </li>
-                            <li><Link to=''>Millhome duo 1</Link> </li>
+                            <li><Link to=''>Turn on</Link> </li>
+                            <li><Link to=''>Tune in</Link> </li>
+                            <li><Link to=''>Drop out</Link> </li>
                         </ul>
                     </Col>
                     <Col>
                       <h3>Social Media</h3>
                        <ul className='footmenu'>
-                            <li><a href='#'>Facebook</a> </li>
-                            <li><a href='#' target='_blank'>Instagram</a> </li>
+                            <li><a href='#' target='_blank'>Facebook</a> </li>
+                            <li><a href='https://www.instagram.com/eleveight.villas/' target='_blank'>Instagram</a> </li>
                         </ul>
                     </Col>
                     <Col xl={5}>
@@ -53,9 +53,9 @@ export class Footer extends Component {
                     <Col className='footinfo'>
                       <h3>Contact information</h3>
                         <ul>
-                            <li><i className="fa fa-phone" aria-hidden="true"></i><a href='tel:+31 020 244 2324'>Phone: +31 020 244 2324 </a> </li>
-                            <li><i className="fa fa-envelope" aria-hidden="true"></i> <a href='mailto:info@eleveightvillas.com'>Email: info@eleveightvillas.com</a> </li>
-                            <li><i className="fa fa-map-marker" aria-hidden="true"></i>Eleveight villas</li>
+                            <li><i className="fa fa-phone" aria-hidden="true"></i><a href='tel:+62 877 2773 1372'>Phone: +62 877 2773 1372 </a> </li>
+                            <li><i className="fa fa-envelope" aria-hidden="true"></i> <a href='mailto:info@eleveight.villas'>Email: info@eleveight.villas</a> </li>
+                            <li><i className="fa fa-map-marker" aria-hidden="true"></i>Eleveight Villas, Jl Raya Semat, Berawa Beach, Bali</li>
                         </ul>
                     </Col>
                     <Col xl={5}>
